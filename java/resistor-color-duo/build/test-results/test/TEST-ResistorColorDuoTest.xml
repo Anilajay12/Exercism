@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ResistorColorDuoTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2020-05-13T15:30:18" hostname="LAPTOP-5DJTSRPC" time="0.008">
+  <properties/>
+  <testcase name="testBrownAndBlack" classname="ResistorColorDuoTest" time="0.005"/>
+  <testcase name="testBlueAndGrey" classname="ResistorColorDuoTest" time="0.001"/>
+  <testcase name="testOrangeAndOrange" classname="ResistorColorDuoTest" time="0.0"/>
+  <testcase name="testYellowAndViolet" classname="ResistorColorDuoTest" time="0.0"/>
+  <testcase name="testIgnoreAdditionalColors" classname="ResistorColorDuoTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

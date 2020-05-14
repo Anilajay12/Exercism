@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="BracketCheckerTest" tests="17" skipped="0" failures="0" errors="0" timestamp="2020-05-14T08:05:41" hostname="LAPTOP-5DJTSRPC" time="0.019">
+  <properties/>
+  <testcase name="testPairedWithWhitespace" classname="BracketCheckerTest" time="0.007"/>
+  <testcase name="testPairedAndWrongNestedBrackets" classname="BracketCheckerTest" time="0.001"/>
+  <testcase name="testWrongOrderedBrackets" classname="BracketCheckerTest" time="0.001"/>
+  <testcase name="testUnopenedClosingBracket" classname="BracketCheckerTest" time="0.0"/>
+  <testcase name="testComplexLatexExpression" classname="BracketCheckerTest" time="0.0"/>
+  <testcase name="testSimpleNestedBrackets" classname="BracketCheckerTest" time="0.0"/>
+  <testcase name="testUnpairedAndNestedBrackets" classname="BracketCheckerTest" time="0.0"/>
+  <testcase name="testTooManyClosingBrackets" classname="BracketCheckerTest" time="0.0"/>
+  <testcase name="testWrongClosingBracket" classname="BracketCheckerTest" time="0.0"/>
+  <testcase name="testPairedAndIncompleteBrackets" classname="BracketCheckerTest" time="0.0"/>
+  <testcase name="testEmptyString" classname="BracketCheckerTest" time="0.0"/>
+  <testcase name="testPartiallyPairedBrackets" classname="BracketCheckerTest" time="0.001"/>
+  <testcase name="testMathExpression" classname="BracketCheckerTest" time="0.0"/>
+  <testcase name="testPairedSquareBrackets" classname="BracketCheckerTest" time="0.001"/>
+  <testcase name="testPairedAndNestedBrackets" classname="BracketCheckerTest" time="0.0"/>
+  <testcase name="testUnpairedBrackets" classname="BracketCheckerTest" time="0.002"/>
+  <testcase name="testSeveralPairedBrackets" classname="BracketCheckerTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
